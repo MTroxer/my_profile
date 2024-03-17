@@ -1,0 +1,70 @@
+.name{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.my_image{
+    padding-left: 40%;
+}
+.image{
+    height: 250px;
+    width: 32%;
+    border: 5px solid ;
+    border-color: orange;
+}
+
+.horizontal1{
+    background-color: blue;
+}
+
+.details{
+    background: linear-gradient(to right, lime, white);
+}
+.about{
+    font-family:monospace, sans-serif;
+}
+
+.about_me{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.skills{
+    background:linear-gradient(to right, orange, white);
+}
+.skills-text{
+    font-family: monospace, sans-serif;
+    font-size: 20;
+}
+
+.skills-list{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-weight: underline;
+}
+
+.hobbies{
+    background: linear-gradient(to right,skyblue, white);
+}
+.hobbies-text{
+    font-family:monospace, sans-serif;
+    font-size: 22;
+}
+
+.hobbies-list{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-weight: underline;
+}
+
+.footer{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: linear-gradient(to left, rgb(73, 143, 175),rgb(185, 115, 87));
+}
+
+.instagram{
+    height: 50px;
+}
